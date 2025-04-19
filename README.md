@@ -3,3 +3,9 @@ This is a restaurant I would love to go to. I can't stomach cow's milk and would
 
 #This is a quick start site for bootstrap: 
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
+#how to run the server:
+python -m http.server
+
+#open the browser:
+go to http://localhost:8000
